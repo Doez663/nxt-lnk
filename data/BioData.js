@@ -8,7 +8,7 @@ const bioData = [
         avatar: '/avatar.png',
         nftAvatar: false,
         description: '₍^._.^₎⟆ Not just a kitty girl 🔪',
-        descShow: true,
+        descShow: false,
         subdesc: 'Use this template and deploy on vercel for free',
         subdescShow: false,
         newProductUrl: 'https://3dicons.co',
