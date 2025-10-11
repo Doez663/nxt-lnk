@@ -10,7 +10,7 @@ const bioData = [
         description: '₍^._.^₎⟆ Not just a kitty girl 🔪',
         descShow: true,
         subdesc: 'Use this template and deploy on vercel for free',
-        subdescShow: true,
+        subdescShow: false,
         newProductUrl: 'https://3dicons.co',
         newProduct: true,
         // author: 'realvjy',
