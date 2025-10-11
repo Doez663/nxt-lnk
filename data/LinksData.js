@@ -104,7 +104,7 @@ const webLinks = [
         url: 'https://vjy.me',
         type: 'nft',
         icon: '/opensea.svg',
-        on: true
+        on: false
     },
     // Install section
     {
