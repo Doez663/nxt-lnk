@@ -2,8 +2,8 @@
 const bioData = [
     {
         //name: 'Sisi Lee',
-        username: '@sisileex',
-        //url: 'https://nxtlnk.vercel.app',
+        username: '@sisi.leex',
+        url: 'https://www.threads.com/@sisi.leex',
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: false,
