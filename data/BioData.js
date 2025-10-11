@@ -11,7 +11,7 @@ const bioData = [
         //descShow: true,
         //subdesc: '',
         //subdescShow: true,
-        newProductUrl: 'https://3dicons.co',
+        newProductUrl: 'https://www.fanvue.com/sisi.leex',
         newProduct: true,
         // author: 'realvjy',
         // authorURL: 'https://twitter.com/realvjy',
