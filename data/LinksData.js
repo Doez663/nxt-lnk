@@ -19,7 +19,7 @@ const webLinks = [
         title: 'Threads',
         url: 'https://www.threads.com/@sisi.leex',
         type: 'social',
-        icon: '/threads.jpg',
+        icon: '/threads.png',
         on: true
     },
     {
