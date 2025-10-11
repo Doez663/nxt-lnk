@@ -145,11 +145,11 @@ const webLinks = [
     },
 
     {
-        title: 'link demo',
-        url: 'https://vjy.me/lnk',
+        title: 'Privte Page',
+        url: 'https://www.fanvue.com/sisi.leex',
         type: 'other',
         icon: '/vjy.png',
-        on: false
+        on: true
     },
 
     {
