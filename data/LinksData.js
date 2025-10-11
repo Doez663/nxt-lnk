@@ -83,7 +83,7 @@ const webLinks = [
         url: 'https://www.post.news/realvjy',
         type: 'social',
         icon: '/post.svg',
-        on: false
+        on: true
     },
     {
         title: 'foundation',
@@ -104,7 +104,7 @@ const webLinks = [
         url: 'https://vjy.me',
         type: 'nft',
         icon: '/opensea.svg',
-        on: false
+        on: true
     },
     // Install section
     {
