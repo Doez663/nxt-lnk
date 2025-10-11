@@ -4,7 +4,7 @@ const bioData = [
         name: 'Sisi Lee',
         //username: '@sisileex',
         //url: 'https://nxtlnk.vercel.app',
-        titleImg: true,
+        titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: false,
         description: '₍^._.^₎⟆ Not just a kitty girl 🔪',
