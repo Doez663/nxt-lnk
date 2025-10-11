@@ -4,14 +4,14 @@ const webLinks = [
     {
         title: 'Twitter',
         url: 'https://twitter.com/realvjy',
-        type: 'other',
+        type: 'social',
         icon: '/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
         url: 'https://instagram.com/realvjy',
-        type: 'other',
+        type: 'social',
         icon: '/insta.svg',
         on: true
     },
