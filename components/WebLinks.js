@@ -167,7 +167,7 @@ const Links = () => {
               {
                 others.length > 0 ?
                     <LinkSection>
-                      <h3>{others[0].type}</h3>
+                      //<h3>{others[0].type}</h3>
                       {/* BioData.js > newProduct == true */}
                       {/* New Section will render once newProduct == true */}
                       {(newProduct) ? <NewSection>
