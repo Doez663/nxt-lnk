@@ -102,7 +102,7 @@ const webLinks = [
     {
         title: 'new collection',
         url: 'https://vjy.me',
-        type: 'others',
+        type: 'nft',
         icon: '/opensea.svg',
         on: true
     },
@@ -147,7 +147,7 @@ const webLinks = [
     {
         title: 'link demo',
         url: 'https://vjy.me/lnk',
-        type: 'others',
+        type: 'other',
         icon: '/vjy.png',
         on: true
     },
@@ -155,7 +155,7 @@ const webLinks = [
     {
         title: 'maker website',
         url: 'https://vjy.me',
-        type: 'others',
+        type: 'other',
         icon: '/vjy.png',
         on: true
     },
