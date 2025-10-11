@@ -6,7 +6,7 @@ const webLinks = [
         url: 'https://twitter.com/realvjy',
         type: 'social',
         icon: '/twitter.svg',
-        on: true
+        on: false
     },
     {
         title: 'Instagram',
@@ -83,7 +83,7 @@ const webLinks = [
         url: 'https://www.post.news/realvjy',
         type: 'social',
         icon: '/post.svg',
-        on: true
+        on: false
     },
     {
         title: 'foundation',
