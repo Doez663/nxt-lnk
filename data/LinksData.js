@@ -4,7 +4,7 @@ const webLinks = [
     {
         title: 'Twitter',
         url: 'https://twitter.com/realvjy',
-        type: 'social',
+        type: 'other',
         icon: '/twitter.svg',
         on: true
     },
