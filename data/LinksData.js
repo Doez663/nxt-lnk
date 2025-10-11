@@ -10,16 +10,16 @@ const webLinks = [
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://www.instagram.com/sisi.leex',
         type: 'social',
         icon: '/insta.svg',
         on: true
     },
     {
-        title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
+        title: 'Threads',
+        url: 'https://www.threads.com/@sisi.leex',
         type: 'social',
-        icon: '/dribbble.svg',
+        icon: '/threads.svg',
         on: false
     },
     {
