@@ -145,7 +145,7 @@ const webLinks = [
     },
 
     {
-        title: 'fanvue',
+        title: 'Join for More On Fanvue',
         url: 'https://www.fanvue.com/sisi.leex',
         type: 'other',
         icon: '/fanvue.png',
