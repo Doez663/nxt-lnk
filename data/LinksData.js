@@ -148,7 +148,7 @@ const webLinks = [
         title: 'fanvue',
         url: 'https://www.fanvue.com/sisi.leex',
         type: 'other',
-        icon: '/vjy.png',
+        icon: '/fanvue.png',
         on: true
     },
 
