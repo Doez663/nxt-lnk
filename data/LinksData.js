@@ -20,7 +20,7 @@ const webLinks = [
         url: 'https://www.threads.com/@sisi.leex',
         type: 'social',
         icon: '/threads.svg',
-        on: false
+        on: true
     },
     {
         title: 'Medium',
@@ -145,7 +145,7 @@ const webLinks = [
     },
 
     {
-        title: 'Join for More On Fanvue',
+        title: 'Exclusive Content On Fanvue',
         url: 'https://www.fanvue.com/sisi.leex',
         type: 'other',
         icon: '/fanvue.png',
