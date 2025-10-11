@@ -11,7 +11,7 @@ const webLinks = [
     {
         title: 'Instagram',
         url: 'https://instagram.com/realvjy',
-        type: 'social',
+        type: 'other',
         icon: '/insta.svg',
         on: true
     },
@@ -69,7 +69,7 @@ const webLinks = [
         url: 'https://mastodon.online/@realvjy',
         type: 'social',
         icon: '/mastodon.svg',
-        on: true
+        on: false
     },
     {
         title: 'Hive Social',
@@ -157,7 +157,7 @@ const webLinks = [
         url: 'https://vjy.me',
         type: 'other',
         icon: '/vjy.png',
-        on: true
+        on: false
     },
 ];
 
