@@ -147,7 +147,7 @@ const webLinks = [
     {
         title: 'link demo',
         url: 'https://vjy.me/lnk',
-        type: 'social',
+        type: 'other',
         icon: '/vjy.png',
         on: true
     },
