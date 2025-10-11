@@ -1,8 +1,8 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'Sisi Lee',
-        //username: '@sisileex',
+        //name: 'Sisi Lee',
+        username: '@sisileex',
         //url: 'https://nxtlnk.vercel.app',
         titleImg: false,
         avatar: '/avatar.png',
