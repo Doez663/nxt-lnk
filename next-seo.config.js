@@ -2,11 +2,11 @@ export default {
     openGraph: {
         type: 'website',
         locale: 'en_IE',
-        title: 'next lnks by realvjy',
-        url: 'https://vjy.me',
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk.',
+        title: 'sisi.leex | Official Links',
+        url: 'https://sisileex.vercel.app/',
+        description: 'The official page for sisi.leex. Find all my social links, including my exclusive content on Fanvue.',
         locale: 'en_EN',
-        keywords: 'designer, product designer, illustrator, indian designer, vijay verma, realvjy, illlustrations, indian illustrator, ui designer india, sushi design system, zomato designer, 3dicons, uiprint, vijay realvjy, indian ui designer, design india, overlayz, nft art',
+        keywords: 'sisi.leex, model, creator, influencer, fanvue, exclusive content, official links, private page',
         images: [
             {
                 width: 1200,
@@ -14,11 +14,11 @@ export default {
                 url: `https://vjy.me/preview.jpg`,
             },
         ],
-        site_name: 'realvjy',
+        site_name: 'sisi.leex',
     },
     twitter: {
-        handle: '@realvjy',
-        site: 'vjy.me',
+        handle: '@sisi.leex',
+        site: 'https://www.threads.com/@sisi.leex',
         cardType: 'summary_large_image',
     },
 };
