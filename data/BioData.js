@@ -3,11 +3,11 @@ const bioData = [
     {
         //name: 'Sisi Lee',
         username: '@sisi.leex',
-        url: 'https://www.threads.com/@sisi.leex',
+        url: 'https://sisileex.vercel.app/',
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: false,
-        //description: '',
+        //description: 'Unlock the content you won't see anywhere else.👅',
         //descShow: true,
         //subdesc: '',
         //subdescShow: true,
