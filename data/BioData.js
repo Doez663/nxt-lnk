@@ -7,7 +7,7 @@ const bioData = [
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: false,
-        description: 'Unlock the content you won't see anywhere else.👅',
+        description: '₍>.<₎⟆ Your cat goes wild at night..',
         descShow: true,
         //subdesc: '',
         //subdescShow: true,
