@@ -7,7 +7,7 @@ const bioData = [
         titleImg: false,
         avatar: '/avatar.png',
         nftAvatar: false,
-        description: '₍>.<₎⟆ Your cat goes wild at night..',
+        description: '🔪小朋友不要进来..',
         descShow: true,
         //subdesc: '',
         //subdescShow: true,
