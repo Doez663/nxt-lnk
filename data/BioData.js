@@ -12,7 +12,7 @@ const bioData = [
         subdesc: '₍^._.^₎⟆ Not just a kitty girl 🔪',
         subdescShow: true,
         newProductUrl: 'https://www.fanvue.com/sisi.leex/fv-1',
-        newProduct: true,
+        newProduct: false,
         // author: 'realvjy',
         // authorURL: 'https://twitter.com/realvjy',
         // footerText: 'made by'
