@@ -3,10 +3,10 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://x.com/sisileex',
         type: 'social',
         icon: '/twitter.svg',
-        on: false
+        on: true
     },
     {
         title: 'Instagram',
